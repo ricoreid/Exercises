@@ -1,0 +1,7 @@
+﻿  przyklady.cpp
+C:\Users\RREID2\Documents\Courses\PK\Podstawy Programowania\Zadania\przyklady\przyklady.cpp(18,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\RREID2\Documents\Courses\PK\Podstawy Programowania\Zadania\przyklady\przyklady.cpp(33,11): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\RREID2\Documents\Courses\PK\Podstawy Programowania\Zadania\przyklady\przyklady.cpp(40,28): error C2556: 'auto randFunckje(int &&)': overloaded function differs only by return type from 'void randFunckje(int &&)'
+C:\Users\RREID2\Documents\Courses\PK\Podstawy Programowania\Zadania\przyklady\przyklady.cpp(36): message : see declaration of 'randFunckje'
+C:\Users\RREID2\Documents\Courses\PK\Podstawy Programowania\Zadania\przyklady\przyklady.cpp(40,8): error C2371: 'randFunckje': redefinition; different basic types
+C:\Users\RREID2\Documents\Courses\PK\Podstawy Programowania\Zadania\przyklady\przyklady.cpp(36): message : see declaration of 'randFunckje'

@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SuperheroClash", "SuperheroClash.csproj", "{A462EA78-D99E-47B2-BC54-0E4731CC7B3B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3E515BD0-E413-408E-885A-0616D5A141D1}"
+	ProjectSection(SolutionItems) = preProject
+		Card.cs = Card.cs
+		Cards.csv = Cards.csv
+		CardsDAO.cs = CardsDAO.cs
+		Deck.cs = Deck.cs
+		GameController.cs = GameController.cs
+		GameControllerAI.cs = GameControllerAI.cs
+		MainMenu.cs = MainMenu.cs
+		PlayerAI.cs = PlayerAI.cs
+		PlayerHuman.cs = PlayerHuman.cs
+		View.cs = View.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A462EA78-D99E-47B2-BC54-0E4731CC7B3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A462EA78-D99E-47B2-BC54-0E4731CC7B3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A462EA78-D99E-47B2-BC54-0E4731CC7B3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A462EA78-D99E-47B2-BC54-0E4731CC7B3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83EAC2B1-D286-45F2-B481-98A8A6870636}
+	EndGlobalSection
+EndGlobal
