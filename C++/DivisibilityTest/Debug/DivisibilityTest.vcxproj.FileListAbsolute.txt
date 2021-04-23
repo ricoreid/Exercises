@@ -1,2 +1,0 @@
-C:\Users\RREID2\Documents\Courses\PK\Podstawy Programowania\Zadania\DivisibilityTest\Debug\DivisibilityTest.exe
-C:\Users\RREID2\Documents\Courses\PK\Podstawy Programowania\Zadania\DivisibilityTest\Debug\DivisibilityTest.pdb
