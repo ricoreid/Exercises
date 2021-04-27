@@ -7,7 +7,7 @@ namespace DataTypeEg
         static void Main(string[] args)
         {
             Console.WriteLine("Ricardo!");
-
+            /*
             Car Tayota = new Car();
             Tayota.HorsePower = 340;
 
@@ -22,7 +22,17 @@ namespace DataTypeEg
             Suzuki.HorsePower = 325;
             Console.WriteLine("***AFTER***");
             Console.WriteLine("Tayota Horse Power: {0}\n Hunda Horse Power: {1}\n Suzuki Horse Power: {2}\n", Tayota.getHorsePower(), Hunda.getHorsePower(), Suzuki.getHorsePower());
+            */
 
+            int a = 3;
+            int b = 5;
+            int c = b;
+            Console.WriteLine("A: {0}\nB: {1}\nC: {2}", a, b, c);
+
+            b = 7;
+            c = b;
+
+            Console.WriteLine("A: {0}\nB: {1}\nC: {2}", a, b, c);
 
         }
     }
